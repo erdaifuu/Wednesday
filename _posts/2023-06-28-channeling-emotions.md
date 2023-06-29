@@ -16,11 +16,12 @@ Last Wednesday was the happiest day of my life. It seemed as if nothing could ch
 
 ## Writing
 For a long time, **writing** is where I would turn to vent, and where my emotions have a place to manifest themselves. Quite evident from the existence of this blog in fact! I had created
+
 * Diaries
 * Journals
 * Blogs
   
-yet none of them were quite satisfying to me, for a simple reason. **My writing will never be seen**. I used to write my diary with the thought of eventually reading it with her one day, and although that may still be possible, it will be years from now until this dream is even possible of being fulfilled, so I have noone do direct my writings too.
+Yet none of them were quite satisfying to me, for a simple reason. **My writing will never be seen**. I used to write my diary with the thought of eventually reading it with her one day, and although that may still be possible, it will be years from now until this dream is even possible of being fulfilled, so I have noone do direct my writings too.
 
 Without that, the words with my emotions are contained in the journal, and it cannot get out. I still very much writing the words down whenever you feel like it, and a blog is a good way to find purpose in your writings while also having everything be directed at yourself.
 
@@ -42,7 +43,7 @@ Now, I find myself at a **loss for songs**. There are so many forms of music out
 
 # What Should I Do?
 
-Manifesting your emotions through a hobby is what one should strive to do. For me, those are **music, programming, and website development**. My rage against the injustices of the world led to the creation of [the Transfemme Wiki][(http://transfem.wiki/)], and my loneliness and hopelessness lead me to create this website as a source of both advice and comfort. 
+Manifesting your emotions through a hobby is what one should strive to do. For me, those are **music, programming, and website development**. My rage against the injustices of the world led to the creation of [the Transfemme Wiki](http://transfem.wiki/), and my loneliness and hopelessness lead me to create this website as a source of both advice and comfort. 
 
 Just know that even in your darkest days, you're not alone. Go to friends and family for comfort. Plus, the internet fosters communities, and the one calling out to you is somewhere in there, you just have to go find it. 
 
