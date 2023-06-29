@@ -30,9 +30,9 @@ disqus_shortname:   wednesday
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics: G-PX8EG5LK61
   #verify:
   #ad-client:
   #ad-slot:
