@@ -6,3 +6,16 @@ ul.posts {
     display: inline-block;
     text-align: left;
 }
+
+h1.title {
+    text-align: center;
+    color: #000099;
+}
+
+h3.title {
+    color: #000099;
+}
+
+.center {
+    text-align: center;
+}
